@@ -12,4 +12,13 @@ Graduated in Computer Science and passionate about techonology, since 2014 actin
 - 💬 Ask me about: Tech, Muay Thai, Simpsons, Tibia, CSGO
 -  ⚡ Technologies: ReactJS, NodeJS, React-Native, Java, PHP
 
+
+<a href="https://github.com/onimur/handle-path-oz">
+  <img width="55%" align="center" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=lcassiol&show_icons=true&hide_border=true" />
+</a>
+
+<p>.</p>
+<p>.</p>
+<p>.</p>
+
 #### "Today better than yesterday and tomorrow better than today!" 
