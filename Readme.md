@@ -5,7 +5,7 @@
 ## Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, 
 I'm Cassio Carvalho, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
-Graduated in Computer Science and passionate about techonology, since 2014 acting as a developer I like to make things work. I have experience on java, javascript, nodejs, react, react-native, php, angularjs, cobol. I am always pursuing knowledge to make me more capable wherever I am I will try to do my best to contribute on solving the problems. 
+Graduated in Computer Science and passionate about techonology, since 2014 acting as a developer I like to make things work. I have experience on <b>java, javascript, nodejs, react, react-native, php, angularjs, cobol</b>. I am always pursuing knowledge to make me more capable wherever I am I will try to do my best to contribute on solving the problems. 
 
 - 🔭 I have experience with Java, PHP, Javascript, Redis, RabbitMQ, ElasticSearch, MongoDb, MySQL, Postgres
 - 🌱 I’m currently learning Nodejs,ReactJS,React-Native
